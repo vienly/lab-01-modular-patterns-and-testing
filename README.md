@@ -1,4 +1,7 @@
 # ![CF](assets/shield-32x32.png) Lab 01: Modular Patterns and Testing
+
+[![Build Status](https://travis-ci.org/codefellows-sea-js-401d8-assignments/lab-01-modular-patterns-and-testing.svg?branch=master)](https://travis-ci.org/codefellows-sea-js-401d8-assignments/lab-01-modular-patterns-and-testing)
+
 ## To Submit this Assignment
   * fork this repository
   * write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-toasty`
