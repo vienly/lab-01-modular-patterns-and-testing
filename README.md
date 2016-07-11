@@ -1,7 +1,7 @@
 # ![CF](assets/shield-32x32.png) Lab 01: Modular Patterns and Testing
 ## To Submit this Assignment
   * fork this repository
-  * write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-duncan`
+  * write all of your code in a directory named `lab-` + `<your name>` **e.g.** `lab-toasty`
   * push to your repository
   * submit a pull request to this repository
   * submit a link to your PR in canvas
