@@ -8,10 +8,9 @@ for submission in ./lab-*;do
   echo "$(tput setaf 4)Runing mocha for dir ${submission}$(tput sgr0)"
   cd "$submission"
   mocha
-  if [[ "$?" -eq 1 ]];then 
+  if [[ "$?" -eq 1 ]];then
     exit_code=1
   fi
 done
 
 exit $exit_code
-

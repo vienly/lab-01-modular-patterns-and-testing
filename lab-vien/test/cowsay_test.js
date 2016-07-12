@@ -1,13 +1,13 @@
 const expect = require('chai').expect;
 const cowsay = require('../cowsay');
 const cow = `
-        \\   ^__^
-         \\  (oo)\\_______
-            (__)\\       )\\/\\
-                ||----w |
-                ||     ||`;
+    \\   ^__^
+     \\  (oo)\\_______
+        (__)\\       )\\/\\
+            ||----w |
+            ||     ||`;
 
-var saythis = 'say something else';
+var saythis = 'jeff';
 
 describe('the cowsay function', function() {
   it('should output a cow saying the input', function() {
