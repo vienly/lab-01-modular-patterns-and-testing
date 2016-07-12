@@ -1,5 +1,5 @@
 const expect = require('chai').expect;
-const cowsay = require('../cowsay');
+const cowsay = require('../lib/cowsay');
 const cow = `
     \\   ^__^
      \\  (oo)\\_______

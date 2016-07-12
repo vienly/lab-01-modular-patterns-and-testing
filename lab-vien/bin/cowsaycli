@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-var cowsay = require('../cowsay');
+var cowsay = require('../lib/cowsay');
 
 var cowsaycli = exports = module.exports = function(string, writeStream) {
   writeStream = writeStream || process.stdout;
