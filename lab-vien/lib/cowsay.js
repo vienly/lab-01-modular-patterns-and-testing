@@ -1,4 +1,4 @@
-module.exports = function(saywhat) {
+exports = module.exports = function cowsay(saywhat) {
   const bubbleTop = '_'.repeat(saywhat.length) + '\n\n';
   const bubbleBottom = '_'.repeat(saywhat.length) + '\n';
 
